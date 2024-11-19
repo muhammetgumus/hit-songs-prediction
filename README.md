@@ -1,1 +1,1 @@
-# hit-songs-prediction
+#This repository includes educational code snippets
